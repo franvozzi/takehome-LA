@@ -1,4 +1,4 @@
-# Desafío Técnico
+# Desafío Técnico: The Network Detective
 
 ## Contexto
 
@@ -8,7 +8,7 @@ Tu misión: construir una API que actúe como un **intérprete de red inteligent
 
 ---
 
-## Especificaciones Técnicas
+## 🛠️ Especificaciones Técnicas
 
 - **Tiempo límite:** 48 horas
 - **Lenguaje/Framework:** Libre (Node.js, Python, Go, etc.)
@@ -43,7 +43,8 @@ POST /analyze
     "NS":    ["ns1.google.com"],
     "TXT":   "No encontrado",
     "CNAME": "No encontrado"
-  }
+  },
+  "domain_registrar": "MarkMonitor Inc."
 }
 ```
 
@@ -80,7 +81,7 @@ El proyecto debe tener una estructura clara, nombres descriptivos y un `README` 
 
 ---
 
-## Entrega
+## 🚀 Entrega
 
 1. Hacé un **fork** de este repositorio
 2. Trabajá en tu fork con commits claros y descriptivos
