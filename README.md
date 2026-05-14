@@ -1,4 +1,4 @@
-# Desafío Técnico: The Network Detective
+# Desafío Técnico
 
 ## Contexto
 
