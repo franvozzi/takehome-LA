@@ -8,9 +8,9 @@ Tu misión: construir una API que actúe como un **intérprete de red inteligent
 
 ---
 
-## 🛠️ Especificaciones Técnicas
+## Especificaciones Técnicas
 
-- **Tiempo límite:** 48 horas
+- **Tiempo límite:** 96 horas
 - **Lenguaje/Framework:** Libre (Node.js, Python, Go, etc.)
 
 ---
@@ -81,7 +81,7 @@ El proyecto debe tener una estructura clara, nombres descriptivos y un `README` 
 
 ---
 
-## 🚀 Entrega
+## Entrega
 
 1. Hacé un **fork** de este repositorio
 2. Trabajá en tu fork con commits claros y descriptivos
